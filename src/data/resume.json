@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "VINAY KUMAR REDDY PATIL",
+    "label": "",
+    "email": "vinayrbs001@gmail.com",
+    "phone": "",
+    "location": "",
+    "website": "",
+    "summary": ""
+  },
+  "links": [
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/vinay-kumar-patil/" },
+    { "label": "GitHub", "url": "https://github.com/vinfreecs" }
+  ],
+  "work": [
+    {
+      "company": "Accenture",
+      "position": "Associate Software Engineer",
+      "location": "",
+      "startDate": "2024-03",
+      "endDate": "2024-08",
+      "highlights": [
+        "Contributed to development and support of scalable .NET (C#) applications with focus on robust architecture and maintenance.",
+        "Collaborated in agile teams to analyze, implement, and deploy software solutions.",
+        "Ensured code quality via reviews and adherence to industry best practices and standards."
+      ]
+    },
+    {
+      "company": "Skyverse Tech",
+      "position": "Frontend Developer",
+      "location": "Remote",
+      "startDate": "2023-11",
+      "endDate": "2024-01",
+      "highlights": [
+        "Built responsive web interfaces using React.js.",
+        "Integrated backend services with Dockerized REST APIs.",
+        "Enhanced UX with GSAP-based dynamic animations."
+      ]
+    },
+    {
+      "company": "MVSR IEEE Student Body",
+      "position": "Web Master",
+      "location": "",
+      "startDate": "2022-08",
+      "endDate": "2023-03",
+      "highlights": [
+        "Architected and deployed high-performance web solutions using the MERN stack.",
+        "Achieved ~100% traffic growth through performance optimizations.",
+        "Implemented responsive design, cutting load time by ~50% and boosting engagement by ~40%."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Neural Network Implementation from Scratch",
+      "role": "",
+      "tech": ["C++", "Eigen", "MNIST", "Parallel Programming"],
+      "startDate": "",
+      "endDate": "",
+      "summary": "Implemented a neural network from scratch; processed MNIST; used Eigen for matrix ops; optimized with parallelism.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "AI-Powered Telegram Chatbot with LLM Integration",
+      "role": "",
+      "tech": ["TinyLlama", "LLM", "Edge Computing", "Telegram Bot"],
+      "startDate": "",
+      "endDate": "",
+      "summary": "Lightweight chatbot integrating TinyLlama; customizable architecture; tunable for manufacturing use cases.",
+      "highlights": [],
+      "url": "https://github.com/vinfreecs/chat_bot"
+    },
+    {
+      "name": "GPU-Accelerated SPH Fluid Simulation",
+      "role": "",
+      "tech": ["C++", "CUDA", "SPH"],
+      "startDate": "",
+      "endDate": "",
+      "summary": "SPH fluid simulation from scratch; accelerated on NVIDIA GPUs with CUDA for real-time performance.",
+      "highlights": [],
+      "url": "https://gitlab.cs.fau.de/de08vyni/sph"
+    }
+  ],
+  "education": [
+    {
+      "institution": "FAU Erlangen-Nuremberg",
+      "degree": "Master of Science",
+      "field": "Computational Engineering",
+      "location": "",
+      "startDate": "2024-10",
+      "endDate": "Present",
+      "gpa": "1.6"
+    },
+    {
+      "institution": "MVSR Engineering College",
+      "degree": "B.E",
+      "field": "Electronics and Communication",
+      "location": "",
+      "startDate": "2019",
+      "endDate": "2023",
+      "gpa": "8.37"
+    }
+  ],
+  "skills": [
+    { "category": "Programming Languages", "keywords": ["C++", "Python", "SQL", "JavaScript", "C", "C#"] },
+    { "category": "Frameworks & Libraries", "keywords": ["Eigen", "React.js", "MERN Stack"] },
+    { "category": "Developer Tools", "keywords": ["Git", "Docker", "Azure Fundamentals", "CUDA"] }
+  ],
+  "awards": [],
+  "certifications": [],
+  "interests": []
+}

@@ -8,10 +8,6 @@
     "website": "",
     "summary": ""
   },
-  "links": [
-    { "label": "LinkedIn", "url": "https://linkedin.com/in/vinay-kumar-patil/" },
-    { "label": "GitHub", "url": "https://github.com/vinfreecs" }
-  ],
   "work": [
     {
       "company": "Accenture",
@@ -52,34 +48,12 @@
   ],
   "projects": [
     {
-      "name": "Neural Network Implementation from Scratch",
-      "role": "",
-      "tech": ["C++", "Eigen", "MNIST", "Parallel Programming"],
-      "startDate": "",
-      "endDate": "",
-      "summary": "Implemented a neural network from scratch; processed MNIST; used Eigen for matrix ops; optimized with parallelism.",
-      "highlights": [],
-      "url": ""
-    },
-    {
-      "name": "AI-Powered Telegram Chatbot with LLM Integration",
-      "role": "",
-      "tech": ["TinyLlama", "LLM", "Edge Computing", "Telegram Bot"],
-      "startDate": "",
-      "endDate": "",
-      "summary": "Lightweight chatbot integrating TinyLlama; customizable architecture; tunable for manufacturing use cases.",
-      "highlights": [],
-      "url": "https://github.com/vinfreecs/chat_bot"
-    },
-    {
+      "slug": "sph-fluid-sim",
       "name": "GPU-Accelerated SPH Fluid Simulation",
-      "role": "",
       "tech": ["C++", "CUDA", "SPH"],
-      "startDate": "",
-      "endDate": "",
-      "summary": "SPH fluid simulation from scratch; accelerated on NVIDIA GPUs with CUDA for real-time performance.",
-      "highlights": [],
-      "url": "https://gitlab.cs.fau.de/de08vyni/sph"
+      "summary": "CUDA-accelerated real-time SPH.",
+      "url": "https://gitlab.cs.fau.de/de08vyni/sph",
+      "media": [{ "type": "video", "src": "/sph_demo_opengl.mp4" },{ "type": "video", "src": "/sph_demo_para.mp4" }]
     }
   ],
   "education": [
